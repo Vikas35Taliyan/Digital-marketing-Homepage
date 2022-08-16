@@ -1,5 +1,8 @@
 # Digital Merketing Homepage.
  Digital marketing Homepage project is a basic single page project that shows services, pricing, contact us with buttons that makes it beautifull.
+ 
+ ## Live
+ [Netlify](https://digital-marketing-page-page.netlify.app/)
 
  # Time
  It takes 1.5 hour to complete.
