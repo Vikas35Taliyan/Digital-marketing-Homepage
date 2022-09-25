@@ -1,20 +1,14 @@
-# Digital Merketing Homepage.
- Digital marketing Homepage project is a basic single page project that shows services, pricing, contact us with buttons that makes it beautifull.
+![Project](https://img.shields.io/badge/project-Digital--Marketing--page-orange)
+![Time](https://img.shields.io/badge/Time-2%20Hour-red)
  
  ## Live
  [Netlify](https://digital-marketing-page-page.netlify.app/)
 
- # Time
- It takes 1.5 hour to complete.
-
- # Screenshot
- ![Digital meketing](./digital%20merketing.PNG)
-
 # What I learn from this project
-* Navbar using flexbox
-* Boxmodel basics
-* positioning an element
-* selectors
+* Navbar using flexbox.
+* Boxmodel basics.
+* positioning an element.
+* Basics of Selectors.
 
 ## My Articles on Hashnode
 
@@ -24,3 +18,7 @@
 # Thanks to
 [Inueron](https://ineuron.ai/)
 [LearnCodeOnline](https://web.learncodeonline.in/)
+
+
+ # Screenshot
+ ![Digital meketing](./digital%20merketing.PNG)
